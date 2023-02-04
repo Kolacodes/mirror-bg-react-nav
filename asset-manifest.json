@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mirror-bg-react-nav/static/css/main.730c0b42.css",
+    "main.js": "/mirror-bg-react-nav/static/js/main.95aa7ed6.js",
+    "index.html": "/mirror-bg-react-nav/index.html",
+    "main.730c0b42.css.map": "/mirror-bg-react-nav/static/css/main.730c0b42.css.map",
+    "main.95aa7ed6.js.map": "/mirror-bg-react-nav/static/js/main.95aa7ed6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.730c0b42.css",
+    "static/js/main.95aa7ed6.js"
+  ]
+}
